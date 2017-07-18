@@ -20,6 +20,9 @@ List of current Plugin Commands.
 | ``::mute <mention>``	| Mutes an user mentioned for a certain amount of time. Requires a role named ``Muted`` to work. (Does not work yet) |
 | ``::clear``	| Clears all messages from bot within a 100 message limit.	|
 
+> *WARNING!!! On this branch the bot is not able to use the voice commands as they need an complete rewrite.
+So if you try using them the bot wont do anything then.*
+
 |   	| Plugin Commands (plugins/voice.py)	|
 |:--------------------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
 | ``::JoinVoiceChannel``	| Allows the bot to Join a Voice Channel. (You must be in a Voice Channel for it to work)	|
